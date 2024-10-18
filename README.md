@@ -124,7 +124,7 @@ Contributions are welcome! If you want to contribute, please open an issue or su
 If you have any questions or suggestions, feel free to reach out:
 
 - GitHub Issues: [Report Issues](https://github.com/your-username/trading-bot/issues)
-- Email: your-email@example.com
+- Email: matthewspyrka@gmail.com
 
 ---
 
