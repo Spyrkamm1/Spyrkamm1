@@ -1,6 +1,3 @@
-Here’s a professional README for your GitHub repository based on the clicking script and your overall trading automation system. This README is designed to present the project in a clear, organized, and professional manner, attracting sponsors and collaborators.
-
----
 
 # Automated Trading Bot with Webhook and Screen Monitoring
 
