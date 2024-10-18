@@ -109,7 +109,7 @@ I am constantly looking for ways to improve this project, and there are several 
 
 If you find this project useful, please consider sponsoring its continued development. Your support helps in adding more features, improving stability, and providing updates for various platforms.
 
-[Sponsor this project](https://github.com/sponsors/your-username)
+[Sponsor this project](https://github.com/sponsors/Spyrkamm1)
 
 ## 📜 License
 
